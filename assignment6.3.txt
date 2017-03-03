@@ -1,0 +1,26 @@
+Explain the working of below pig script commands with an example:
+
+
+load:
+     it is used to load a set of data into a relation after loading using dump command we can view the data loaded into the particular document
+
+store:
+      it is used to store some set of data into a document from local file system to hadoop file system
+
+dump:
+      it is a command that is used to view the contents available in a particular file
+
+order by:
+        this command is used to order either in ascending order or by descending order
+
+group by:
+        this command is used to group a set of values under a particular value set.
+
+describe:
+        this command will describe the structure of the table based on the atttributes available in it.
+
+filter :
+       this command retrives the element based on the contraints applied on it.
+
+foreach:
+        this command will retrive a particular column available in a document in a sequential manner.
